@@ -253,7 +253,6 @@ The model might focus on superficial patterns rather than understanding the task
 Conclusion
 Few-shot prompting is a versatile and powerful technique for enhancing AI capabilities. By providing examples, you can guide the model to generate accurate, structured outputs. However, it's important to consider limitations such as context window size and example selection to maximize effectiveness.
 
-<img width="1200" height="760" alt="image" src="https://github.com/user-attachments/assets/cea727e4-b771-4a68-afc9-98a8d157d911" 
 <img width="1400" height="616" alt="image" src="https://github.com/user-attachments/assets/3294305d-ed93-4fbd-b90c-52aedcdecb0e" />
 
 <img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/0c9f1ac8-a4f5-49a3-8fd5-4832fb1a3c44" />
