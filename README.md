@@ -260,5 +260,9 @@ Few-shot prompting is a versatile and powerful technique for enhancing AI capabi
 
 
 ## Result
+Summarizing technical content for students requires a balance between "dumbing down" and "keeping it real." Our evaluation shows that while Zero-Shot is the fastest, it often fails the "Simplicity" test. To achieve professional-grade results, content curators should move toward Few-Shot or Role-Based prompting to ensure the AI understands the audience as well as it understands the technology.
+
+Overall Few-Shot Performance: A significant step up from zero-shot, demonstrating that even a few examples can dramatically improve the quality and relevance of the summary.
+
 
 
